@@ -4,7 +4,7 @@ Desafio matemático para obter o soma do triangulo.
 
 ## Getting Started
 
-O desafio foi desenvolvido utilizando a linguagem java junto com o gerenciador de dependências maven, para começar deve ser instalado o maven na maquina:
+O desafio foi desenvolvido utilizando a linguagem java junto com o gerenciador de dependências maven, para começar deve ser instalado Java, JRE na maquina e o maven:
 ```
 sudo apt-get install maven
 ```
